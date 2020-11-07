@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there. I'm Ezequiel Kohon 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-kohon-539a48122/)
+[![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white](mailto:ezekohon@gmail.com)
 <!--
 **ezekohon/ezekohon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
